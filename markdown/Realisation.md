@@ -2,5 +2,5 @@
 ## __Réalisation.__
 
 
-..*Détailler le chocolat en pépites
+- Détailler le chocolat en pépites
 
